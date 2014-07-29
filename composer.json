@@ -1,0 +1,14 @@
+{
+    "name": "dcouture-ca/page-part-bundle",
+    "type": "symfony-bundle",
+    "description": "Symfony PagePartBundle",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dominic Couture",
+        }
+    ],
+    "require": {
+            "php": ">=5.3.0"
+    },
+}
